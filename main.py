@@ -13,7 +13,7 @@ than one copy is in the rectangle (the
 texture_wrap).
 
 '''
-
+#commit test
 
 from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty, ListProperty, StringProperty
